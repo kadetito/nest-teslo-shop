@@ -15,3 +15,10 @@ docker-compose up -d
 ```
 
 6. Levantar: ```yarn start:dev```
+
+
+7. INFO para POSTMAN: la validación del token es Auth Bearer
+
+8. Cargar data dummie del seed desde postman: http://localhost:3000/api/seed GET
+
+8. Abrir Swagger en el navegador: http://localhost:3000/api
